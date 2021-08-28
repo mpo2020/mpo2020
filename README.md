@@ -1,7 +1,7 @@
 ##
 <h1>Hi I'm mpo2020!</h1>
 
-
+<br>
 <b>🖥️ I'm attending college in the IT area.<b/>
 
 <div>
@@ -11,13 +11,13 @@
   <img width="70" height="80" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img width="70" height="80" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 </div>
+  <br>
+  
 
-<div><center>
+<div>
   <a href="https://github.com/mpo2020">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mpo2020&show_icons=true&theme=gotham&bg_color=000">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpo2020&amp;layout=compact&amp;langs_count=7&amp;theme=gotham">
-    <br><br>
-
+    <img  width="100%" src="https://github-readme-stats.vercel.app/api?username=mpo2020&show_icons=true&theme=gotham&bg_color=000">
+   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpo2020&amp;layout=compact&amp;langs_count=7&amp;theme=gotham">-->
   </a>
 </div>
 
