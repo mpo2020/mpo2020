@@ -16,8 +16,8 @@
 
 <div>
   <a href="https://github.com/mpo2020">
-    <img  width="100%" src="https://github-readme-stats.vercel.app/api?username=mpo2020&show_icons=true&theme=gotham&bg_color=000">
-   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpo2020&amp;layout=compact&amp;langs_count=7&amp;theme=gotham">-->
+    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=mpo2020&show_icons=true&theme=gotham&bg_color=000">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpo2020&amp;layout=compact&amp;langs_count=7&amp;theme=gotham">
   </a>
 </div>
 
