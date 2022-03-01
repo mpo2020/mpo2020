@@ -3,8 +3,6 @@
 
 <br>
 <b>🖥️ I'm attending college in the IT area.<b/>
-<br>
-<img width="30" height="20" src="https://42.rio/wp-content/uploads/2019/08/logo-42-54pixels.png"><b> I'm student of 42|RIO<b/>
 
 <div>
   <h2>Languages i'm studying </h2>
@@ -23,6 +21,13 @@
   </a>
 </div>
 
+<style>
+	/* Base (light mode) styles */
+
+	@media screen and (prefers-color-scheme: dark) {
+		/* Dark mode styles */
+	}
+</style>
   
   <!--
 **mpo2020/mpo2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
