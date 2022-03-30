@@ -21,13 +21,7 @@
   </a>
 </div>
 
-<style>
-	/* Base (light mode) styles */
 
-	@media screen and (prefers-color-scheme: dark) {
-		/* Dark mode styles */
-	}
-</style>
   
   <!--
 **mpo2020/mpo2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
